@@ -1,3 +1,9 @@
 # INTELLIGENT CAREER GUIDANCE SYSTEM
 
-Youtube video link: https://www.youtube.com/watch?v=fMQfYWDIpWU
+#working 
+
+clone the repository 
+change directory to it
+run the below commands -
+python  testmodel.py
+python testapp.py
